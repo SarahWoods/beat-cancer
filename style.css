@@ -52,3 +52,38 @@ nav a {
 nav a:hover{
 background-color: pink;
 }
+
+main h2{
+  padding-top: 10px;
+  font-size: 45px;
+}
+main p a{
+  font-weight: bolder;
+  color: black;
+}
+
+main{
+  padding-bottom: 20px;
+}
+
+footer{
+  background-color: #cccccc;
+  margin: -20px;
+  padding: 1px;
+  font-size: 12px;
+}
+#social-media{
+  font-size: 40px;
+}
+
+.icon-facebook2{
+  color: dodgerblue;
+}
+
+.icon-vimeo2{
+  color: #ff99ff;
+}
+
+.icon-paypal{
+  color: gold;
+}
